@@ -1,23 +1,12 @@
 ---
-title: Introduction to Java
+title: Overview of course outline and an intro to meteorology.
 ---
 
-Sep 28
-: [Java & Git](#)
-  : [1.1](#)
+May 15
+: [Readings for week 1](#)
+  : [1.0](#), [1.1](#)
+: Form groups of 3-5 students for in-class group exercises starting week 2
+  
 
-Sep 29
-: **Section**{: .label .label-purple }[Intro to Java](#)
-  : [Solution](#)
 
-Sep 30
-: [Variables & Objects](#)
-  : [1.2](#), [2.1](#)
 
-Oct 1
-: **Lab**{: .label .label-purple } [Intro to Java](#)
-
-Oct 2
-: [Tracing, IntLists, & Recursion](#)
-  : [2.1](#)
-: **HW 1 due**{: .label .label-red }

@@ -5,9 +5,7 @@ description: A listing of all the course staff members.
 ---
 
 # Staff
-
-Staff information is stored in the `_staffers` directory and rendered according to the layout file, `_layouts/staffer.html`.
-
+Your course staff is here to help you succeed in this course. Please feel free to reach out to us if you have any questions or concerns.
 ## Instructors
 
 {% assign instructors = site.staffers | where: 'role', 'Instructor' %}
@@ -18,6 +16,7 @@ Staff information is stored in the `_staffers` directory and rendered according 
 {% assign teaching_assistants = site.staffers | where: 'role', 'Teaching Assistant' %}
 {% assign num_teaching_assistants = teaching_assistants | size %}
 {% if num_teaching_assistants != 0 %}
+
 ## Teaching Assistants
 
 {% for staffer in teaching_assistants %}
